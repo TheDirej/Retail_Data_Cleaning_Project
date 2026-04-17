@@ -1,6 +1,6 @@
-# 🧹 Retail Data Cleaning Project 
+#  Retail Data Cleaning Project 
 
-### 🎯 Overview
+###  Overview
 This project simulates a **real-world retail data cleaning scenario** for a mid-sized e-commerce company.  
 It focuses on transforming messy and inconsistent customer, product, and order data into a fully standardized, analytics-ready dataset.
 
@@ -8,7 +8,7 @@ The project was built in **Google Sheets / Excel** and follows a structured, rep
 
 ---
 
-### 🗂️ Project Structure
+###  Project Structure
 | Sheet Name | Description |
 |-------------|-------------|
 | `orders_raw`, `customers_raw`, `products_raw` | Original uncleaned data |
@@ -20,7 +20,7 @@ The project was built in **Google Sheets / Excel** and follows a structured, rep
 
 ---
 
-### ⚙️ Cleaning Process
+###  Cleaning Process
 1. **Raw Data Review:**  
    Identified issues in dates, phone numbers, emails, currencies, SKU mismatches, and missing fields.
 
@@ -41,7 +41,7 @@ The project was built in **Google Sheets / Excel** and follows a structured, rep
 
 ---
 
-### 📊 Data Quality KPIs
+###  Data Quality KPIs
 | KPI Category | Metric | Result |
 |---------------|---------|--------|
 | Referential Consistency | Valid SKU & Customer IDs | **100%** |
@@ -51,7 +51,7 @@ The project was built in **Google Sheets / Excel** and follows a structured, rep
 
 ---
 
-### 🧠 Key Learnings
+###  Key Learnings
 - Building **flag-based validation systems** helps track errors transparently.  
 - Maintaining a **separate KPI sheet** quantifies data quality improvements.  
 - Even in Excel/Sheets, it's possible to simulate a **full analyst workflow**—from cleaning to reporting.  
@@ -59,7 +59,7 @@ The project was built in **Google Sheets / Excel** and follows a structured, rep
 
 ---
 
-### 💾 Tools & Skills Used
+###  Tools & Skills Used
 - **Google Sheets / Excel**
 - Regular Expressions (REGEXMATCH / REGEXREPLACE)
 - Logical Formulas (IF, AND, OR, IFERROR)
@@ -69,7 +69,7 @@ The project was built in **Google Sheets / Excel** and follows a structured, rep
 
 ---
 
-### 🏁 Project Status
+###  Project Status
 ✅ Completed – ready for portfolio publication.  
 This is **Project** in a retail data cleaning series, demonstrating practical end-to-end data cleaning workflows.
 
